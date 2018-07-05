@@ -1,5 +1,7 @@
-Use the code as reference to build 
+Use this repo to understand the building blocks of Redux
 
-JSON strucuture
-Paste the structure on myjson (a fake API)
-consume the API and show results on UI.
+Focus on Two things
+  1. Which utility functions are used
+  2. From where these are imported from
+  
+  
